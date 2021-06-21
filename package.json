@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-seo",
+  "version": "1.0.0",
+  "description": "Gatsby SEO Demo",
+  "author": "Code Concisely",
+  "license": "MIT",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^3.6.2",
+    "gatsby-plugin-react-helmet": "^4.7.1",
+    "gatsby-source-filesystem": "^3.6.0",
+    "gatsby-transformer-remark": "^4.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0"
+  }
+}
